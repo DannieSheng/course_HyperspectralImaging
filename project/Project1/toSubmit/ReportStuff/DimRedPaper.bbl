@@ -1,0 +1,30 @@
+\begin{thebibliography}{1}
+
+\bibitem{Bishop}
+C.~M. Bishop, {\em Pattern Recognition and Machine Learning (Information
+  Science and Statistics)}.
+\newblock Berlin, Heidelberg: Springer-Verlag, 2006.
+
+\bibitem{Green}
+A.~A. Green, M.~Berman, P.~Switzer, and M.~D. Craig, ``A transformation for
+  ordering multispectral data in terms of image quality with implications for
+  noise removal,'' {\em IEEE Transactions on Geoscience and Remote Sensing},
+  vol.~26, pp.~65--74, Jan 1988.
+
+\bibitem{statlearn}
+T.~Hastie, R.~Tibshirani, and J.~Friedman, {\em The Elements of Statistical
+  Learning}.
+\newblock Springer Series in Statistics, New York, NY, USA: Springer New York
+  Inc., 2001.
+
+\bibitem{JSD}
+B.~Fuglede and F.~Topsoe, ``Jensen-shannon divergence and hilbert space
+  embedding,'' in {\em International Symposium onInformation Theory, 2004. ISIT
+  2004. Proceedings.}, pp.~31--, June 2004.
+
+\bibitem{parzen}
+F.~J. Harris, ``On the use of windows for harmonic analysis with the discrete
+  fourier transform,'' {\em Proceedings of the IEEE}, vol.~66, pp.~51--83, Jan
+  1978.
+
+\end{thebibliography}
